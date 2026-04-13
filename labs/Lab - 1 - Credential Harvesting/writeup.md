@@ -24,5 +24,5 @@ SETOOLKIT - The Social-Engineer Toolkit (SET) is an open-source Python-driven to
   You will be asked how you would like to make this site; from a template, site cloner, or custom import. Select option 2 **Site Cloner**. 
 - **Step 4:**
   The Social-Enineer Toolkit (SET) will then ask you for an IP address that it can send the POST requests from the cloned website back to your machine. By default SET will detect your IP address automatically. 
-  Once you tell SET you want to clone a website, it will ask you for the URL of the site you want to clone. For this example I will be using TikTok, [https://www.facebok.com/](https://www.facebook.com/)
+  Once you tell SET you want to clone a website, it will ask you for the URL of the site you want to clone. For this example I will be using Facebook, [https://www.facebok.com/](https://www.facebook.com/)
   
