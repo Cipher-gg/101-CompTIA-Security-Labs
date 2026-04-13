@@ -15,7 +15,7 @@ SETOOLKIT - The Social-Engineer Toolkit (SET) is an open-source Python-driven to
 
 ## Lab Walkthrough
 - **Step 1:**
-  Boot up the Kali machine and make sure it is up to date. Run <sudo apt update && sudo apt upgrade>
+  Boot up the Kali machine and make sure it is up to date. Run `sudo apt update && sudo apt upgrade`
   Next start the **SET: Social Engineering Toolkit** as root. 
   Make sure SET configuration is updated (Press **3**)
 - **Step 2:**
